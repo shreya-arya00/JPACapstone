@@ -1,0 +1,9 @@
+/Users/skumari/Desktop/JPACapstone/src/main/java/org/example/shopping/SpringBootJdbcJpaApplication.java
+/Users/skumari/Desktop/JPACapstone/src/main/java/org/example/shopping/entity/Product.java
+/Users/skumari/Desktop/JPACapstone/src/main/java/org/example/shopping/config/JpaConfig.java
+/Users/skumari/Desktop/JPACapstone/src/main/java/org/example/shopping/jdbc/JdbcConfig.java
+/Users/skumari/Desktop/JPACapstone/src/main/java/org/example/shopping/repository/ProductRepository.java
+/Users/skumari/Desktop/JPACapstone/src/main/java/org/example/shopping/service/ProductService.java
+/Users/skumari/Desktop/JPACapstone/src/main/java/org/example/shopping/controller/ProductController.java
+/Users/skumari/Desktop/JPACapstone/src/main/java/org/example/shopping/jdbc/ProductDAO.java
+/Users/skumari/Desktop/JPACapstone/src/main/java/org/example/shopping/service/ProductJdbcService.java

@@ -1,0 +1,9 @@
+org/example/shopping/entity/Product.class
+org/example/shopping/repository/ProductRepository.class
+org/example/shopping/service/ProductService.class
+org/example/shopping/controller/ProductController.class
+org/example/shopping/config/JpaConfig.class
+org/example/shopping/service/ProductJdbcService.class
+org/example/shopping/jdbc/JdbcConfig.class
+org/example/shopping/jdbc/ProductDAO.class
+org/example/shopping/SpringBootJdbcJpaApplication.class
